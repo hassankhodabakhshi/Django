@@ -16,3 +16,6 @@ $ django-admin startproject isonetwork
 
 $ cd isonetwork
 
+$ python3 manage.py runserver
+
+$ python3 manage.py startapp iso
