@@ -16,16 +16,17 @@ install django ~ ubuntu 22.4
 
 <code>source env/bin/activate</code>
 
-$ source env/bin/activate
+<code>source env/bin/activate</code>
 
-$ pip install Django
+<code>pip install Django</code>
 
-$ python3 -m django --version
+<code>python3 -m django --version</code>
 
-$ django-admin startproject isonetwork
+<code>django-admin startproject isonetwork</code>
 
-$ cd isonetwork
+<code>cd isonetwork</code>
 
-$ python3 manage.py runserver
+<code>python3 manage.py runserver</code>
 
-$ python3 manage.py startapp iso
+<code>python3 manage.py startapp iso</code>
+
