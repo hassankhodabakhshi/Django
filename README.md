@@ -30,3 +30,4 @@ install django ~ ubuntu 22.4
 
 <code>python3 manage.py startapp iso</code>
 
+<a href="https://github.com/hassankhodabakhshi/Django/edit/main/README.md" rel="nofollow"><img src="https://i.stack.imgur.com/MzXfs.png" alt="Build Status" data-canonical-src="https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup.svg?branch=master" style="max-width: 100%;"></a> 
